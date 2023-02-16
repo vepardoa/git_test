@@ -1,1 +1,3 @@
 modifying hello world
+
+git commit vs code config
